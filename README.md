@@ -48,5 +48,13 @@ A modern and responsive fashion shopping website designed for a seamless user ex
 
 ---
 
+## 🤝 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/hari-makineedi/)
+- 📧 Email: harimakineedi29@email.com
+- 📱 Phone: +91- 9133792875
+
+---
+
 
 
