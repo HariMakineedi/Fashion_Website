@@ -26,3 +26,10 @@ A modern, responsive fashion e-commerce landing site built using HTML, CSS and J
 ---
 
 
+## 🤝 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/hari-makineedi/)
+- 📧 Email: harimakineedi29@email.com
+- 📱 Phone: +91- 9133792875
+
+---
